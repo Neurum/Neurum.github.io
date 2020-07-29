@@ -236,7 +236,7 @@ img {
   background-color: #008073;
   color: lightgray;
   transform: rotateY(180deg);
-  padding-top: 5%;
+  padding-top: 10%;
 }
 
 .flip-card-back ul li {
