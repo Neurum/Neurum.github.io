@@ -282,3 +282,12 @@ img {
     font-size: 0.75rem;
   }
 }
+
+.btn {
+  background-color: #343a40;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #008073;
+}
