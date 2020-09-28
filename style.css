@@ -197,6 +197,14 @@ img {
   margin-bottom: 19px;
 }
 
+.card-body {
+}
+
+.card-animation:hover {
+  transition: all 0.2s;
+  transform: scale(1.15);
+}
+
 .card-img {
   text-align: center;
   float: left;
