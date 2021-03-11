@@ -1,4 +1,4 @@
 module.exports = {
   publicPath:
-    process.env.NODE_ENV === 'production' ? '/personal-site-2.0/' : '/',
+    process.env.NODE_ENV === 'production' ? '/Neurum.github.io/' : '/',
 };
