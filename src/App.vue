@@ -83,11 +83,15 @@ html {
   }
 }
 @media screen and (max-width: 600px) {
+  html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
   .container {
     margin-top: 2rem;
     margin-left: 3rem;
     margin-right: 3rem;
-    overflow: hidden;
+
     padding-bottom: 2rem;
   }
 }

@@ -165,7 +165,7 @@ a.underline:hover:before {
     text-align: center;
   }
   .second-text {
-    width: 100%;
+    width: 95%;
   }
 }
 </style>
