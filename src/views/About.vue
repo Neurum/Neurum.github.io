@@ -95,13 +95,13 @@ p {
   .intro-img img {
     height: 250px;
   }
-  h1 {
-    margin: 0;
-    margin-bottom: 5rem;
-  }
   p {
     margin-bottom: 3rem;
     line-height: 2rem;
+  }
+  h1 {
+    margin: 0;
+    margin-bottom: 5rem;
   }
 }
 </style>
